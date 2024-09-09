@@ -26,6 +26,6 @@ regex==2024.5.15
 requests==2.32.3
 six==1.16.0
 urllib3==2.2.2
-watchdog==4.0.1
+watchdog==4.0.2
 pillow==10.3.0
 CairoSVG==2.7.1
