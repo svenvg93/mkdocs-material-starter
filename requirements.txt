@@ -25,7 +25,7 @@ pyyaml_env_tag==0.1
 regex==2024.9.11
 requests==2.32.3
 six==1.16.0
-urllib3==2.2.2
+urllib3==2.2.3
 watchdog==5.0.2
 pillow==10.4.0
 CairoSVG==2.7.1
