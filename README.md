@@ -18,4 +18,4 @@ Now the template is ready we will build the first version of the site to make su
 
 Now cloudflare will clone your github repro, build the website and publish it.
 If succesfull click continue project
-You will get a generate domain name like `mkdocs-em9.pages.dev`
+It will get a generate domain name like `mkdocs-em9.pages.dev`
