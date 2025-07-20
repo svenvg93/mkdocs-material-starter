@@ -1,0 +1,15 @@
+{
+  "name": "website",
+  "compatibility_date": "2025-06-01",
+  "assets": {
+    "directory": "./site",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page",
+    "run_worker_first": false
+  },
+  "build": {
+    "command": "mkdocs build"
+  },
+  "workers_dev": true,
+  "preview_urls": true
+}
