@@ -1,5 +1,8 @@
 # 📦 MkDocs Template
 
+> [!WARNING]
+> This template is currently in maintenance mode. See [mkdocs-material#8523](https://github.com/squidfunk/mkdocs-material/issues/8523) for more information.
+
 This is a ready-to-use MkDocs template designed for quick deployment using **Cloudflare Pages** or **Cloudflare Workers**, with built-in support for **Dependabot** and **Dev Containers**.
 
 ## 🛠️ Setup Instructions
