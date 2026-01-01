@@ -1,5 +1,5 @@
 {
-  "name": "website",
+  "name": "mkdocs-material-starter",
   "compatibility_date": "2025-06-01",
   "assets": {
     "directory": "./site",
